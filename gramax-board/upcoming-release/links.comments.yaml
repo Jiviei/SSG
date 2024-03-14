@@ -1,0 +1,10 @@
+'6':
+  comment:
+    user:
+      mail: sergey.fedorashko@ics-it.ru
+      name: Sergey Fedorashko (ICS)
+    dateTime: '2024-03-06T10:31:15.135Z'
+    content: >-
+      Нужен макет для визуального представления как выглядеть иерархия в
+      интерфейсе и какие у нее правила (ограничения)
+  answers: []

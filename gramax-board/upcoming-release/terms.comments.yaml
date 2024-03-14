@@ -1,0 +1,18 @@
+'1':
+  comment:
+    user:
+      mail: alexander.machulin@ics-it.ru
+      name: Alexander Machulin
+    dateTime: '2024-02-15T20:50:23.704Z'
+    content: >-
+      В Википедии можно выключить превью. Возможно в редакторе надо сделать тоже
+      опции выключения превью. Или вообще не показывать в редакторе.
+  answers: []
+'2':
+  comment:
+    user:
+      mail: stanislav.yargunkin@ics-it.ru
+      name: Stanislav Yargynkin
+    dateTime: '2024-03-06T11:08:54.423Z'
+    content: Разве не должно показываться окно для редактировании ссылки?
+  answers: []
