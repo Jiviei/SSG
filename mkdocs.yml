@@ -1,0 +1,9 @@
+site_name: Hello world
+
+# theme:
+#   name: material
+
+# theme: windmill-dark
+
+theme:
+  name: windmill

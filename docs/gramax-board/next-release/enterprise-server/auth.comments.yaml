@@ -1,0 +1,45 @@
+'1':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: Andrey Lastochkin
+    dateTime: '2024-02-05T13:55:14.334Z'
+    content: Если это сделать сложно, давай откроем модальное окно клонирования.
+  answers: []
+'2':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: Andrey Lastochkin
+    dateTime: '2024-02-05T14:10:11.682Z'
+    content: А темы нам не нужны для Х5 в первом квартале?
+  answers: []
+'3':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: Andrey Lastochkin
+    dateTime: '2024-02-05T14:39:48.941Z'
+    content: Нужны ли им внешние читатели на портале?
+  answers: []
+'7':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: Andrey Lastochkin
+    dateTime: '2024-02-13T06:34:46.749Z'
+    content: >-
+      Сейчас было продемонстрировано так, что после авторизации в SSO
+      пользователя еще дополнительно перекидывает в GitLab, по возможности этот
+      доп. шаг стоит избежать. Тут со Стасом надо обсудить
+  answers: []
+'9':
+  comment:
+    user:
+      mail: andrey.lastochkin@ics-it.ru
+      name: Andrey Lastochkin
+    dateTime: '2024-02-13T06:41:28.738Z'
+    content: >-
+      Что думаете, может для всех NOTE-блоков нужно мочь задать схлопнутость?
+      Тогда бы нам не потребовался блочный cut-блок
+  answers: []
